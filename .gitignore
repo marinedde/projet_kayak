@@ -1,0 +1,9 @@
+rootkey.csv
+*.csv
+data/
+venv/
+__pycache__/
+.env
+*.png
+*.pptx
+*.docx
